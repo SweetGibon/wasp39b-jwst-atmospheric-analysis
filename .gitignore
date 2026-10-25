@@ -1,0 +1,19 @@
+# Python bytecode / build / virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Notebook checkpoints and stray editor files
+.ipynb_checkpoints/
+*.swp
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary logs
+*.log
